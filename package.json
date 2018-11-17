@@ -1,0 +1,14 @@
+{
+  "name": "toko-online",
+  "version": "1.0.0",
+  "description": "Project case Fullstack js bandung ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "touch": "^3.1.0"
+  }
+}
